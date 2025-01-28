@@ -1,2 +1,2 @@
 # silicon-phonon-git
-python code to calculate phonon frequencies, group velocities and speciifc heat capacity of a silicon crystal for different grid sizes of phonon wave-vectors using harmonic interatomic force constant data of silicon as input
+python code to calculate phonon frequencies and phonon group velocities using harmonic interatomic force constant data as input - for a silicon crystal and 17x17x17 number of phonon wave-vectors(written as q-vectors in code)
